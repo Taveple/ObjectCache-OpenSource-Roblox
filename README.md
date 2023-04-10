@@ -1,9 +1,15 @@
 # ObjectCache-OpenSource-Roblox
 
--- Created by Taveple 11/12/2022
--- Updated 08/04/2023
+Here is the link to the module script and a very poorly scripted local script to test out the functions: https://www.roblox.com/library/13067311265/ObjectCache-OpenSoruce
+
+I hope this module helps you :)
+
+
+Created by Taveple 11/12/2022
+Updated 08/04/2023
 
 --[[
+	
 
 	This module aims to solve the issue of needing large amount of parts to be spawned in at once by pre-creating them
 	and making it easier to be pulled and used when needed. I have compiled as many methods as I could think of,
