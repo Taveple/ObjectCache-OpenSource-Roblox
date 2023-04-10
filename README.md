@@ -49,3 +49,4 @@
 	- This function will remove a specific amount of random objects from the cache.
 		RemoveFromCache(CacheName: string, Amount: number)
 ]]
+
